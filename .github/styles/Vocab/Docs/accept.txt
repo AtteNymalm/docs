@@ -17,6 +17,7 @@ Gradle
 Gretty
 [hH]otpatch(ed|ing)?
 Karaf
+LitElement
 Lumo
 Maven
 [mM]iddleware
